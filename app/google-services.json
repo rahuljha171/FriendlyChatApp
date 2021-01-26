@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1063121624397",
+    "firebase_url": "https://fir-chatapp-343dc.firebaseio.com",
+    "project_id": "fir-chatapp-343dc",
+    "storage_bucket": "fir-chatapp-343dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063121624397:android:74268c7c29894ffa112b04",
+        "android_client_info": {
+          "package_name": "com.rahul.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063121624397-8sd0pv1b4tqle53fvej566bi23j8larr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEeNFlqRnP__bhNmJvtTNpNyB1D0j0h_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063121624397-8sd0pv1b4tqle53fvej566bi23j8larr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063121624397:android:44cad2e42a195afe112b04",
+        "android_client_info": {
+          "package_name": "com.rahul.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063121624397-8sd0pv1b4tqle53fvej566bi23j8larr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEeNFlqRnP__bhNmJvtTNpNyB1D0j0h_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063121624397-8sd0pv1b4tqle53fvej566bi23j8larr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063121624397:android:0101349f0e01c4c3112b04",
+        "android_client_info": {
+          "package_name": "com.rahul.friendlychatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063121624397-8sd0pv1b4tqle53fvej566bi23j8larr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEeNFlqRnP__bhNmJvtTNpNyB1D0j0h_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063121624397-8sd0pv1b4tqle53fvej566bi23j8larr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
